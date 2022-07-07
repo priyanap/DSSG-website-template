@@ -5,14 +5,14 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
-# Project Name
+# Self-Sufficiency Standard
 
 ## The Team
 
-**Project Lead/s:**
+**Project Lead/s: Lisa Manzer, Annie Kucklick**
 
-**Data Science Lead/s:** 
+**Data Science Lead/s: Bryna Hazleton** 
 
-**DSSG Fellows:** 
+**DSSG Fellows: Aziza Mirsaidova, Priyana Patel, Cheng Ren, Hector Sosa** 
 
 # Abstract or executive summary
